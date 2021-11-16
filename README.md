@@ -32,7 +32,7 @@ II. Вариативная самостоятельная работа
 Примечание: Конспект 
 QR-код задания (на GIT-репозиторий):
 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.co
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Fkristinekh1996%2F-IT--.-%2Fblob%2Fmain%2F%C7%E0%E4%E0%ED%E8%E5%25201.2%2520%C8%D1%D0%2520%D5%E0%F7%E0%F2%F0%FF%ED%2520%CA%F0%E8%F1%F2%E8%ED%E5.docx&4&0" width="212" height="212" border="0" title="QR код"></a>
 
 Задание 2.2. Сделать аннотированный список научных работ и публикаций в рамках научного направления (кафедры, университета), с которым соотносится тема исследования.
 
